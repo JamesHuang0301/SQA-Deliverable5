@@ -2,7 +2,7 @@
 ##xih55@pitt.edu
 
 ###I use Acunetix Vulnerability Online Scanner in this deliverable.
-###Test Website: http://testasp.vulnweb.com
+Test Website: http://testasp.vulnweb.com
     
 ###Vulnerabilities:
 
