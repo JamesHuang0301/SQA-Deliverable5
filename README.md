@@ -17,8 +17,12 @@ Screenshot of this vulnerability:
     
 ![image](https://github.com/JamesHuang0301/SQA-Deliverable5/blob/master/Screen%20Shot%202016-11-15%20at%2011.37.12%20PM.png)
 
-1.What part of the InfoSec Triad does this vulnerability attack (confidentiality, integrity, or availability)?
+1. What part of the InfoSec Triad does this vulnerability attack (confidentiality, integrity, or availability)?
 * Confidentiality：Cookies and sessions can be taken by attacker
 * Integrity：Attackers can modify contents of user account
 * Availability：Attackers can steal user account
+
+2. What kind of security attack can exploit this vulnerability (interruption, interception, modification, or fabrication)?
+
+
 
