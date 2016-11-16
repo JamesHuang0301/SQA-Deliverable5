@@ -1,12 +1,12 @@
 #SQA-Deliverable5: Web Vulnerabilities Test
 ##xih55@pitt.edu
 
->I use Acunetix Vulnerability Online Scanner in this deliverable.
->Test Website: http://testasp.vulnweb.com
+###I use Acunetix Vulnerability Online Scanner in this deliverable.
+###Test Website: http://testasp.vulnweb.com
     
->Vulnerabilities:
+###Vulnerabilities:
 
->Vulnerability 1:
+###Vulnerability 1:
     
 Steps:
 * Add scan target and select http://testasp.vulnweb.com
