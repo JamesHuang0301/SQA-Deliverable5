@@ -16,4 +16,4 @@
     The details of this vulnerability will be shown
     
     Screenshot of this vulnerability:
-    Screen Shot 2016-11-15 at 11.37.12 PM.png
+    
