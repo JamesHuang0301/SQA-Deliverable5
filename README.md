@@ -1,7 +1,7 @@
 #SQA-Deliverable5: Web Vulnerabilities Test
 ##xih55@pitt.edu
 
-I use Acunetix Vulnerability Online Scanner in this deliverable
+I use Acunetix Vulnerability Online Scanner in this deliverable.
 Test Website: http://testasp.vulnweb.com
     
 Vulnerabilities:
