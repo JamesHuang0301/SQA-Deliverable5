@@ -39,6 +39,7 @@ Screenshot of this vulnerability:
 * Script should filter metacharacters from user input. (From Acunetix Vulnerability Online Scanner official report)
 
 
+
 Vulnerability 2:
     
 Steps:
