@@ -16,3 +16,9 @@ The details of this vulnerability will be shown
 Screenshot of this vulnerability:
     
 ![image](https://github.com/JamesHuang0301/SQA-Deliverable5/blob/master/Screen%20Shot%202016-11-15%20at%2011.37.12%20PM.png)
+
+1.What part of the InfoSec Triad does this vulnerability attack (confidentiality, integrity, or availability)?
+*Confidentiality：
+*Integrity：
+*Availability：
+
