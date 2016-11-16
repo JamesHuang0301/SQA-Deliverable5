@@ -37,9 +37,7 @@ Screenshot of this vulnerability:
 5.What steps should the development team take to fix this vulnerability?
 * Script should filter metacharacters from user input. (From Acunetix Vulnerability Online Scanner official report)
 
-
-
-Vulnerability 2:
+####Vulnerability 2:
     
 Steps:
 * Add scan target and select http://testasp.vulnweb.com
